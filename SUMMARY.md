@@ -10,4 +10,5 @@
 
 ## Unturned Guides <a href="#unturned" id="unturned"></a>
 
-* [Unturned Getting Started](unturned/getting-started.md)
+* [Getting Started](unturned/getting-started.md)
+* [Crafting Guide](unturned/crafting-guide.md)

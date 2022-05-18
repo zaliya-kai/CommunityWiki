@@ -1,9 +1,12 @@
 ---
+description: >-
+  First and formost, a big welcome to the LYHMECommunity! We hope you enjoy your
+  stay! / Header Image: AquaSquid
 cover: ../.gitbook/assets/items.png
 coverY: 0
 ---
 
-# Unturned Getting Started
+# Getting Started
 
 ## Let's Get Started <a href="#lets-get-started" id="lets-get-started"></a>
 
