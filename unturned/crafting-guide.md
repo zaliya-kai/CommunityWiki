@@ -16,4 +16,4 @@ On our servers, we have tons of modded content, many of it is custom and for the
 
 |                            Image                            | Materials                                                                                                                                   | Crafting Requirement |
 | :---------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
-| ![Cyan Dye](https://lyhme.gg/icons/items/27352.png =100x100) | <p>Cyan Dye (Crafting Material) itemID: 27352<br><strong>Materials:</strong> Blue Flare x5 + White Smoke x1 + LYHME Bleach + LYHME Coin</p> |        Level 3       |
+| ![Cyan Dye](https://lyhme.gg/icons/items/27352.png | width=100) | <p>Cyan Dye (Crafting Material) itemID: 27352<br><strong>Materials:</strong> Blue Flare x5 + White Smoke x1 + LYHME Bleach + LYHME Coin</p> |        Level 3       |
