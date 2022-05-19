@@ -14,3 +14,4 @@
 * [Crafting Guide](unturned/crafting-guide.md)
 * [Building](unturned/building.md)
 * [Commands](unturned/commands.md)
+* [Economy](unturned/economy.md)
