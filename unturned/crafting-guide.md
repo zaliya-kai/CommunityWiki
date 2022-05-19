@@ -1,4 +1,4 @@
- ---
+---
 description: 'Header Image: ninkashino'
 cover: ../.gitbook/assets/couch.png
 coverY: 0
