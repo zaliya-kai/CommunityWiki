@@ -50,7 +50,7 @@ To report on our discord, you direct message our **ModMail** bot.
 
 As you might have guessed it, **hacking** or a **modified** client, **item duping**, auto **scripting**, self **bots** or **abuse** of anything that can be exploited is not permitted on any of our servers.
 
-### Discord Rules
+## Discord Rules
 
 1. No advertising of any other servers, or any commercial social media channels without permission.
 2. Respect staff members and their decisions. If you have any disputes regarding staff members please take it to their Supervisors.
