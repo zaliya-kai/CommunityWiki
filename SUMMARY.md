@@ -16,3 +16,8 @@
 * [Commands](unturned/commands.md)
 * [Economy](unturned/economy.md)
 * [Purge Event](unturned/purge-event.md)
+
+## Discord Guides <a href="#discord" id="discord"></a>
+
+* [Getting Started](discord/getting-started.md)
+* [Submitting a Claim](discord/submitting-a-claim.md)
