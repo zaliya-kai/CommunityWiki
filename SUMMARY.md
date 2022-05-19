@@ -13,3 +13,4 @@
 * [Getting Started](unturned/getting-started.md)
 * [Crafting Guide](unturned/crafting-guide.md)
 * [Building](unturned/building.md)
+* [Commands](unturned/commands.md)
