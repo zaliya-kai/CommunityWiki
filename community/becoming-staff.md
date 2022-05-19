@@ -19,11 +19,11 @@ In effect as of February 17, 2022
 The following conditions must be met in order for you to apply
 
 * At least 15 years old
-* Linked in LYHMECommunity Discord with your in-game steam. Click [HERE](https://discord.com/channels/230722126028603393/681709266209472572/733130292226949121) for more information
+* You are discord linked
 
 ### Applying
 
-Check out the instructions located inside our discord text-channel, [`📌│announcements`](https://discord.com/channels/230722126028603393/230853256257994752/943841640391507988)
+We provide the instructions inside our discord, `📌│announcements`text-channel.
 
 ## Recommendations
 
