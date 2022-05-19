@@ -21,3 +21,4 @@
 
 * [Getting Started](discord/getting-started.md)
 * [Submitting a Claim](discord/submitting-a-claim.md)
+* [Our Guidelines](discord/our-guidelines.md)
