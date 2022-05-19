@@ -15,3 +15,4 @@
 * [Building](unturned/building.md)
 * [Commands](unturned/commands.md)
 * [Economy](unturned/economy.md)
+* [Purge Event](unturned/purge-event.md)

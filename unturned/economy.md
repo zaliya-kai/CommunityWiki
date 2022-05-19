@@ -57,7 +57,7 @@ To those that place the beacon, you have the responsibility to declare in **AREA
 
 
 
-### Useful Links
+## Useful Links
 
 * [🔫 Item Prices Food, Weapons and More!](https://lyhme.gg/items.php?p=us)
 * __[_🚙 Vehicle Prices Porsches, Hatchbacks, and More!_](https://lyhme.gg/cars.php?p=us)__
