@@ -13,11 +13,11 @@ Our Discord server and this wiki are the core of our community for everything wh
 
 When it comes to needing help, there are a few ways about doing it.
 
-One way, is member driven. This could be quicker at times, but it all depends. This text channel is  `#🙋┊needing_help` where you can ask others for help and assist other members at the same time.
+One way is member driven. This could be quicker at times, but it all depends. This text channel is  `#🙋┊needing_help` where you can ask others for help and assist other members at the same time.
 
 The other way is where you receive 100% staff-only replies. To get in contact, you will want to direct message our ModMail bot this will create a "thread" where you can communicate back and forth.
 
-## Everything Related to Bots
+## Related to Bots
 
 We have many bots that you may come to love and enjoy. \
 When you are using them, please use the associated channels.

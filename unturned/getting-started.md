@@ -27,11 +27,11 @@ If you are attempting to try to get around the map, you don't need to **suicide*
 
 **Stealing** from other members such as a vehicle, item(s), private airdrop, or experience.
 
-### Punishments <a href="#punishments" id="punishments"></a>
+## Punishments <a href="#punishments" id="punishments"></a>
 
 None of us are perfect, we all make mistakes. Heck as an owner I make mistakes quite often! That's okay though, when we do make them we own it, learn from it, and move forward.
 
-#### Ban Appealing <a href="#ban-appealing" id="ban-appealing"></a>
+### Ban Appealing <a href="#ban-appealing" id="ban-appealing"></a>
 
 When we do make those mistakes we may have consequences. Sometimes they can last for a short or even a long period of time. Depending on the length of the consequence, you have the opportunity to appeal it.
 
