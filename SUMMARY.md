@@ -21,6 +21,7 @@
 
 ## Discord Guides <a href="#discord" id="discord"></a>
 
-* [Getting Started](discord/getting-started.md)
+* [Getting Started](discord/getting-started/README.md)
+  * [Discord Invite](https://lyhme.gg/discord)
 * [Our Guidelines](discord/our-guidelines.md)
 * [Submitting a Claim](discord/submitting-a-claim.md)

@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/discord.png
+cover: ../../.gitbook/assets/discord.png
 coverY: 357.54680664916884
 ---
 
