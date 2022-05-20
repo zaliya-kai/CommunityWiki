@@ -59,27 +59,27 @@ You can vote on each website every **24 hours**.
 
 ### Website
 
-| Usage         | Explanation                                                                     |
-| ------------- | ------------------------------------------------------------------------------- |
-| **/website**  | Opens a prompt directing to our website (lyhme.gg)                              |
-| **/donate**   | Opens a prompt directing to our store (store.lyhme.gg)                          |
-| **/craft**    | Opens a prompt directing to our crafting guide (lyhme.gg/crafting)              |
-| **/purge**    | Opens a prompt directing to our purge guide (lyhme.gg/purge)                    |
-| **/rules**    | Opens a prompt directing to our rules (lyhme.gg/rules)                          |
-| **/commands** | Opens a prompt directing to this page (lyhme.gg/commands)                       |
-| **/workshop** | Opens a prompt directing to our workshop collection (lyhme.gg/wspve-collection) |
-| **/group**    | Opens a prompt directing to our steam group (lyhme.net/steam)                   |
+| Usage         | Explanation                              |
+| ------------- | ---------------------------------------- |
+| **/website**  | Prompts to go to our website             |
+| **/donate**   | Prompts to go to our store               |
+| **/craft**    | Prompts to go to our crafting guide      |
+| **/purge**    | Prompts to go to our purge event guide   |
+| **/rules**    | Prompts to go to our guidelines\*        |
+| **/commands** | Prompts to go to our wiki\*              |
+| **/workshop** | Prompts to go to our workshop collection |
+| **/group**    | Prompts to go to our steam group         |
 
 ### Donor Only Related
 
-| Usage            | Explanation                                         |
-| ---------------- | --------------------------------------------------- |
-| **/exit**        | Quickly exit the server via a command               |
-| **/refuel**      | Refuels the vehicle you are sitting in              |
-| **/maxskills**   | Maxes out all your skills                           |
-| **/heal**        | Heals all your stats to be 100%                     |
-| **/airdrop**     | Gives you an LYHME Airdrop Smoke                    |
-| **/v "name/ID"** | Spawns any non-blacklisted vehicles in front of you |
+| Usage            | Explanation                                 |
+| ---------------- | ------------------------------------------- |
+| **/exit**        | Quickly leave the server via the command    |
+| **/refuel**      | Refuels the vehicle you are sitting in      |
+| **/maxskills**   | Maxes out all your skill trees              |
+| **/heal**        | Heals, Feeds, Water, all to 100%            |
+| **/airdrop**     | Gives you an LYHME Airdrop Smoke            |
+| **/v "name/ID"** | Spawns a specified vehicles in front of you |
 
 ## Our Kits
 
@@ -137,7 +137,7 @@ You can vote on each website every **24 hours**.
 | Deluxe | <p>Green Shirt (163)<br>Cargo Pants (209)<br>Forest Military Vest (310)<br>Alicepack (253)<br>3x Filter (1271)<br>Green Bedroll (209)<br>Rangefinder (1008)<br>"16x Scope" (296)<br>High Caliber Military Ammunition Crate (1192)<br>2x Demolition Charge (1241)</p> |    6h    |
 | Heavy  | <p>Forest Military Helmet (309)<br>Forest Military Top (307)<br>Forest Military Bottom (308)<br>Forest Military Vest (310)<br>Military Nightvision (334)</p>                                                                                                         |    6h    |
 
-### Not Permitted Vehicle Spawns
+## Not Permitted Vehicle Spawns
 
 | Name                                |                                           VehicleID                                           |
 | ----------------------------------- | :-------------------------------------------------------------------------------------------: |
@@ -231,7 +231,7 @@ You can vote on each website every **24 hours**.
 | SU-25 (Rockets)                     |                                             19011                                             |
 | Pickup Truck                        |                                             19014                                             |
 
-### Grounds for Deletion Vehicles
+## Grounds for Deletion Vehicles
 
 Having the following vehicles in your Virtual Garage will cause deletion with no warning and no refund will be issued
 
