@@ -1,6 +1,6 @@
 ---
 description: 'Header Image: TheUnderDog'
-cover: ../.gitbook/assets/shop.png
+cover: ../../.gitbook/assets/shop.png
 coverY: 0
 ---
 
@@ -14,7 +14,7 @@ Our in-game economy is one of the many pillars apart of your LYHME experience. T
 
 The currency that is used across the LYHME servers is called **Citrus**.
 
-## Commands
+## Related Commands
 
 | Usage                         | Explanation                                          |
 | ----------------------------- | ---------------------------------------------------- |
@@ -54,10 +54,3 @@ We define **camping** as sitting, near or under one.
 When the horde is over, the beacon will break and gear will drop. When this happens it will be up to the person that **placed** it, to decide who gets any of the gear.
 
 To those that place the beacon, you have the responsibility to declare in **AREA** chat if any of the member(s) will get the loot including the amount per member will get. If failed to do this, the gear is declared free-for-all to those that participate.
-
-
-
-## Useful Links
-
-* [🔫 Item Prices Food, Weapons and More!](https://lyhme.gg/items.php?p=us)
-* __[_🚙 Vehicle Prices Porsches, Hatchbacks, and More!_](https://lyhme.gg/cars.php?p=us)__
