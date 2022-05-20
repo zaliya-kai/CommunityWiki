@@ -1,6 +1,6 @@
 ---
 description: 'Header Image: ninkashino'
-cover: ../.gitbook/assets/computer.png
+cover: ../../.gitbook/assets/computer.png
 coverY: 271.9370078740157
 ---
 
@@ -12,15 +12,15 @@ Commands are one of the ways that make LYHME, LYHME. Below are how to use the co
 
 ### Useful
 
-| Usage           | Explanation                                                                |
-| --------------- | -------------------------------------------------------------------------- |
-| **/confirm**    | Permits you to build                                                       |
-| **/hideui**     | Hides our UI, helps if you are filming                                     |
-| **/kit "name"** | Spawns the specified kit                                                   |
-| **/kits**       | Opens UI with all your available kits                                      |
-| **/vote**       | Opens UI to vote on each website                                           |
-| **/chest**      | Opens UI to purchase or open chests                                        |
-| **/claim code** | Redeems a claim code (Used for [Claims](../discord/submitting-a-claim.md)) |
+| Usage           | Explanation                                                                   |
+| --------------- | ----------------------------------------------------------------------------- |
+| **/confirm**    | Permits you to build                                                          |
+| **/hideui**     | Hides our UI, helps if you are filming                                        |
+| **/kit "name"** | Spawns the specified kit                                                      |
+| **/kits**       | Opens UI with all your available kits                                         |
+| **/vote**       | Opens UI to vote on each website                                              |
+| **/chest**      | Opens UI to purchase or open chests                                           |
+| **/claim code** | Redeems a claim code (Used for [Claims](../../discord/submitting-a-claim.md)) |
 
 {% hint style="info" %}
 You can vote on each website every **24 hours**.
