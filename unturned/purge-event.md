@@ -76,7 +76,7 @@ Raiding you will be banned for **6 hours**!
 
 </details>
 
-### Commands
+### Related Commands
 
 | Usage                     | Explanation                                           |
 | ------------------------- | ----------------------------------------------------- |
