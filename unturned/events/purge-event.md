@@ -1,6 +1,6 @@
 ---
 description: 'Header Image: Coolbird'
-cover: ../.gitbook/assets/purge.png
+cover: ../../.gitbook/assets/purge.png
 coverY: 0
 ---
 

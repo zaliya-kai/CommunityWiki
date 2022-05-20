@@ -17,7 +17,8 @@
 * [Economy](unturned/economy/README.md)
   * [Item Prices](https://lyhme.gg/items.php?p=us)
   * [Vehicle Prices](https://lyhme.gg/cars.php?p=us)
-* [Purge Event](unturned/purge-event.md)
+* [Events](unturned/events/README.md)
+  * [Purge Event](unturned/events/purge-event.md)
 
 ## Discord Guides <a href="#discord" id="discord"></a>
 
