@@ -14,6 +14,8 @@ This is not a test. This is your emergency broadcast system announcing the comme
 
 Teaming up with non-group members have been authorized during the Purge.
 
+### Events Not Are Permitted
+
 <details>
 
 <summary>Weapons / Ammunition</summary>
@@ -74,7 +76,7 @@ Raiding you will be banned for **6 hours**!
 
 </details>
 
-## Commands
+### Commands
 
 | Usage                     | Explanation                                           |
 | ------------------------- | ----------------------------------------------------- |
@@ -86,6 +88,6 @@ Raiding you will be banned for **6 hours**!
 
 Commencing at the siren, murder will be legal. Guide, Moderator, and Administrators will be unavailable until the Purge concludes.
 
-Blesed be our Community, may God be with you all.
+Blessed be our Community, may God be with you all.
 
 A big thank you to StellaR and Machew for the help with this page.
