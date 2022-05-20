@@ -27,7 +27,7 @@ The currency that is used across the LYHME servers is called **Citrus**.
 | **/sell "name/ID" amount**    | Sell item(s) and set amount                          |
 | **/sbox**                     | Opens storage like, place items, sells all available |
 
-## Ways To Make Citrus
+## Ways To Earn Citrus
 
 You might ask, "What are some of the **best** ways to make Citrus?" Well, here are a few ways that you can make Citrus.
 
