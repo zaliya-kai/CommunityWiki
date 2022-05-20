@@ -49,3 +49,23 @@ To report on our discord, you direct message our **ModMail** bot.
 ### Hacking and Scripting <a href="#hacking-and-scripting" id="hacking-and-scripting"></a>
 
 As you might have guessed it, **hacking** or a **modified** client, **item duping**, auto **scripting**, self **bots** or **abuse** of anything that can be exploited is not permitted on any of our servers.
+
+### Discord Rules
+
+1. No advertising of any other servers, or any commercial social media channels without permission.
+2. Respect staff members and their decisions. If you have any disputes regarding staff members please take it to their Supervisors.
+3. These topics are severely banned from being talked/used in this server:
+   1. Sexism
+   2. Racism
+   3. Offending someone’s religion/radical religion talk
+   4. Political talks, political movement.
+   5. Condemned inter/national tragedies/organization.
+4. Any usage of racist slur/life threats to another community member/staff will result in an instant ban.
+5. No impersonation of another community members, moreover staff members.
+6. Speak English because we are an international community. Using translator is okay.
+7. Respect other members, take your lengthy and unhealthy arguments to DM. There is difference between a healthy debate and straightaway insulting arguments.
+8. SPAM and NSFW contents are not allowed in any chat. No NSFW/disgusting/pornographic of any form of media/profile picture/background allowed.
+9. Do not be unnecessarily depressing, or talk about self-harm or harming others. Animal abuse is included in this.
+10. No begging of any kind is allowed, whether for Discord Nitro or in-game items or currencies.
+11. Trading in-game items and currencies is strictly prohibited especially, but not limited to in our Discord.
+12. Follow Discord’s Term of Service. Especially, community Discord members must be above 12 years old.
