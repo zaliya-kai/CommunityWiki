@@ -12,9 +12,9 @@ This is not a test. This is your emergency broadcast system announcing the comme
 
 ### Teaming Up
 
-Teaming up with non-group members have been authorized during the Purge.
+Teaming up with non-group members has been authorized during the Purge.
 
-### Events Not Are Permitted
+### Not Are Permitted
 
 <details>
 
