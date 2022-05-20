@@ -8,17 +8,19 @@ coverY: 271.9370078740157
 
 ## Commands
 
+Commands are one of the ways that make LYHME, LYHME. Below are how to use the commands and a brief explanation of each one.
+
 ### Useful
 
-| Usage           | Explanation                                            |
-| --------------- | ------------------------------------------------------ |
-| **/confirm**    | Permits you to build, when you join for the first time |
-| **/hideui**     | Hides our UI on the right, and stats                   |
-| **/kit "name"** | Spawns specified kit                                   |
-| **/kits**       | Opens UI with all available kits                       |
-| **/vote**       | Opens UI to where you can vote                         |
-| **/chest**      | Opens UI to purchae or open chests with a key          |
-| **/claim code** | Redeems claim code and gives you item(s)               |
+| Usage           | Explanation                                                                |
+| --------------- | -------------------------------------------------------------------------- |
+| **/confirm**    | Permits you to build                                                       |
+| **/hideui**     | Hides our UI, helps if you are filming                                     |
+| **/kit "name"** | Spawns the specified kit                                                   |
+| **/kits**       | Opens UI with all your available kits                                      |
+| **/vote**       | Opens UI to vote on each website                                           |
+| **/chest**      | Opens UI to purchase or open chests                                        |
+| **/claim code** | Redeems a claim code (Used for [Claims](../discord/submitting-a-claim.md)) |
 
 {% hint style="info" %}
 You can vote on each website every **24 hours**.
@@ -28,34 +30,38 @@ You can vote on each website every **24 hours**.
 
 | Usage                  | Explanation                            |
 | ---------------------- | -------------------------------------- |
-| **/tpa "player name"** | Sends teleport request to player       |
+| **/tpa "player name"** | Sends a teleport request to a member   |
 | **/tpa abort**         | Cancels the sent teleport request      |
 | **/back**              | Teleports you back where you died last |
-| **/home**              | Teleports you back to your bed         |
+| **/home**              | Teleports you back to your claimed bed |
 
 ### Virtual
 
-| Usage              | Explanation                                |
-| ------------------ | ------------------------------------------ |
-| **/vault "name"**  | Opens specified vault                      |
-| **/vaults**        | Shows the available vaults                 |
-| **/gtake "value"** | Takes specified vehicle out of your garage |
-| **/gadd**          | Adds vehicle to of your garage             |
-| **/glist**         | A list of what is available in your garage |
+| Usage              | Explanation                                 |
+| ------------------ | ------------------------------------------- |
+| **/vault "name"**  | Opens specified vault                       |
+| **/vaults**        | Shows available vaults that you can open    |
+| **/gtake "value"** | Spawns specified vehicle out of your garage |
+| **/gadd**          | Adds vehicle to of your garage              |
+| **/glist**         | A list of what is available in your garage  |
 
-### Private Messaging
+### Private Messaging\*
 
-| Usage                         | Explanation                                  |
-| ----------------------------- | -------------------------------------------- |
-| **/pm "player name" message** | Sends a private message to a player          |
-| **/reply message**            | Replies to the last person that messaged you |
+| Usage                         | Explanation                                    |
+| ----------------------------- | ---------------------------------------------- |
+| **/pm "player name" message** | Sends a private message to specified member    |
+| **/reply message**            | Replies to the latest member that messaged you |
+
+{% hint style="warning" %}
+\*Staff can see these private messages from our discord and our logs.
+{% endhint %}
 
 ### Discord
 
-| Usage               | Explanation                                                |
-| ------------------- | ---------------------------------------------------------- |
-| **/discord invite** | Opens a prompt directing to our discord (lyhme.gg/discord) |
-| **/discord**        | Generates a code, redeem it via the `#🔗link` text-channel |
+| Usage               | Explanation                                                             |
+| ------------------- | ----------------------------------------------------------------------- |
+| **/discord invite** | Prompts to go to our discord server                                     |
+| **/discord**        | Generates a code, redeem it via the `#🔗link` text-channel to be linked |
 
 ### Website
 
