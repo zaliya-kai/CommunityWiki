@@ -14,19 +14,6 @@ Our in-game economy is one of the many pillars apart of your LYHME experience. T
 
 The currency that is used across the LYHME servers is called **Citrus**.
 
-## Related Commands
-
-| Usage                         | Explanation                                          |
-| ----------------------------- | ---------------------------------------------------- |
-| **/balance**                  | Check your total Citrus balance                      |
-| **/pay "player name" amount** | Pay Citrus to a player with a set amount             |
-| **/cost "name/ID"**           | Check the cost of a item                             |
-| **/vcost "name/ID"**          | Check the cost of a vehicle                          |
-| **/buy "name/ID" amount**     | Purchase item(s) with set amount                     |
-| **/vbuy "name/ID"**           | Purchases a vehicle                                  |
-| **/sell "name/ID" amount**    | Sell item(s) and set amount                          |
-| **/sbox**                     | Opens storage like, place items, sells all available |
-
 ## Ways To Earn Citrus
 
 You might ask, "What are some of the **best** ways to make Citrus?" Well, here are a few ways that you can make Citrus.
@@ -54,3 +41,16 @@ We define **camping** as sitting, near or under one.
 When the horde is over, the beacon will break and gear will drop. When this happens it will be up to the person that **placed** it, to decide who gets any of the gear.
 
 To those that place the beacon, you have the responsibility to declare in **AREA** chat if any of the member(s) will get the loot including the amount per member will get. If failed to do this, the gear is declared free-for-all to those that participate.
+
+## Related Commands
+
+| Usage                         | Explanation                                          |
+| ----------------------------- | ---------------------------------------------------- |
+| **/balance**                  | Check your total Citrus balance                      |
+| **/pay "player name" amount** | Pay Citrus to a player with a set amount             |
+| **/cost "name/ID"**           | Check the cost of a item                             |
+| **/vcost "name/ID"**          | Check the cost of a vehicle                          |
+| **/buy "name/ID" amount**     | Purchase item(s) with set amount                     |
+| **/vbuy "name/ID"**           | Purchases a vehicle                                  |
+| **/sell "name/ID" amount**    | Sell item(s) and set amount                          |
+| **/sbox**                     | Opens storage like, place items, sells all available |

@@ -8,9 +8,9 @@ coverY: 0
 
 ## Becoming a Member of Our Team
 
-So you'd like to become an LYHMECommunity, Staff Member. Awesome, let's get started.
+So you'd like to become an LYHMECommunity, Staff Member. Sweet! Let's get started.
 
-#### Application Status: **OPEN**
+#### Application Status: <mark style="color:green;">**OPEN**</mark>
 
 In effect as of February 17, 2022
 

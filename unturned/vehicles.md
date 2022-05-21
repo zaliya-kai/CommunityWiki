@@ -1,6 +1,27 @@
 # Vehicles
 
-## Not Permitted Vehicle Spawns
+## Zoom, Zoom, Beep!
+
+Let's be on the same page when it comes to vehicles, ready set go!
+
+### Building on Vehicles
+
+We do have some limits and restrictions when it comes to vehicle building.
+
+| Item Topic         | Number Per Vehicle |
+| ------------------ | :----------------: |
+| Any Beds           |        0 Max       |
+| Any Traps          |        2 Max       |
+| Any Sentries       |        2 Max       |
+| Light Sources      |        4 Max       |
+| Storage Containers |        5 Max       |
+| Displays           |       10 Max       |
+
+{% hint style="warning" %}
+We also do not recommend placing or storing valuable items on your vehicles this is due to there is a chance of them becoming lost with no refunds  when you garage it.
+{% endhint %}
+
+### Not Permitted Vehicle Spawns
 
 The following is a list of vehicles that you are unable to spawn with the `/v` command.
 
@@ -96,9 +117,10 @@ The following is a list of vehicles that you are unable to spawn with the `/v` c
 | SU-25 (Rockets)                     |                                             19011                                             |
 | Pickup Truck                        |                                             19014                                             |
 
-## Grounds for Deletion Vehicles
+### Grounds for Deletion Vehicles
 
-The following vehicles that are in your garage will be deleted with no warning and no refund provided.
+The following vehicles that are in your garage will be deleted.\
+&#x20;No warning and no refunds will be offered.
 
 | Name              | VehicleID     |
 | ----------------- | ------------- |

@@ -43,7 +43,7 @@ On our servers, overall this wonâ€™t happen much but when it does, we call it â€
 When it comes to reporting, try to include much detail as possible!
 
 {% hint style="info" %}
-To report on our discord, you direct message our **ModMail** bot.
+To report on our discord, you direct message our **ModMail** discord bot.
 {% endhint %}
 
 ### Hacking and Scripting <a href="#hacking-and-scripting" id="hacking-and-scripting"></a>

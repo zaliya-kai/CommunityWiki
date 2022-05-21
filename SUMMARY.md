@@ -10,11 +10,13 @@
 
 ## Unturned Guides <a href="#unturned" id="unturned"></a>
 
-* [Getting Started](unturned/getting-started.md)
+* [Getting Started](unturned/getting-started/README.md)
+  * [Our Servers](https://lyhme.gg/servers)
 * [Crafting Guide](unturned/crafting-guide.md)
-* [Building](unturned/building.md)
+* [Building](unturned/building/README.md)
+  * [Cubes](unturned/building/cubes.md)
+* [Vehicles](unturned/vehicles.md)
 * [Commands](unturned/commands/README.md)
-  * [Vehicles](unturned/commands/vehicles.md)
   * [Kit Contents](unturned/commands/kit-contents.md)
 * [Economy](unturned/economy/README.md)
   * [Item Prices](https://lyhme.gg/items.php?p=us)
