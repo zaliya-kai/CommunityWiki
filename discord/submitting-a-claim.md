@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/discord.png
-coverY: -141.00437445319335
----
-
 # Submitting a Claim
 
 ## All About Claims

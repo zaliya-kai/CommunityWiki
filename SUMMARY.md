@@ -14,6 +14,7 @@
 * [Crafting Guide](unturned/crafting-guide.md)
 * [Building](unturned/building.md)
 * [Commands](unturned/commands/README.md)
+  * [Vehicles](unturned/commands/vehicles.md)
   * [Kit Contents](unturned/commands/kit-contents.md)
 * [Economy](unturned/economy/README.md)
   * [Item Prices](https://lyhme.gg/items.php?p=us)
