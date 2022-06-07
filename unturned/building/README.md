@@ -80,9 +80,9 @@ A freeform is an item that rotates on a spherical axis.
 \*\*We classify alcohol barrels as a part of this.
 {% endhint %}
 
-| A Light Source                                                                                                                                                                                       | Not A Light Source                                                                                                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Torch, Flare Barricade, Campfire, Lamp, Spotlight, Cagelight, Sentry w/lighted Weapon, Table Lamp, Round Wall Lamp, Mirror Light, Ceiling Light, Fluorescent Light, Fire barrel, LYHME Lamp, Bonfire | Monitor, Upgraded Monitor, Laptop, Upgraded Laptop TV, Upgraded TV, Ceiling Fan, Candle, Wall Candle Holder Candle Stand, Stone Oven, Christmas Tinsel, Ball Ornament, 360 Display |
+| A Light Source                                                                                                                                                                                                  | Not A Light Source                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Torch, Flare Barricade, Campfire, Lamp, Spotlight, Cagelight, Sentry w/lighted Weapon, Table Lamp, Round Wall Lamp, Mirror Light, Ceiling Light, Fluorescent Light, Fire barrel, LYHME Lamp, Bonfire, Fireplace | Monitor, Upgraded Monitor, Laptop, Upgraded Laptop TV, Upgraded TV, Ceiling Fan, Candle, Wall Candle Holder Candle Stand, Stone Oven, Christmas Tinsel, Ball Ornament, 360 Display |
 
 ## Commands
 
